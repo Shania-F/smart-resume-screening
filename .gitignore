@@ -1,0 +1,11 @@
+# excluded files
+.env
+# resumes/
+
+# Python virtual environment
+.idea/
+.venv/
+
+# Bytecode
+__pycache__/
+*.pyc
